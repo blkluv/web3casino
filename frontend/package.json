@@ -27,7 +27,7 @@
     "@web3-react/walletconnect-connector": "^6.2.13",
     "@web3-react/walletlink-connector": "^6.2.13",
     "animate.css": "^4.1.1",
-    "apexcharts": "^3.26.1",
+    "apexcharts": "^4.0.0",
     "axios": "^1.2.2",
     "babel-runtime": "^6.26.0",
     "buffer": "^6.0.3",
